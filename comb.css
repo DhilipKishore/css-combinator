@@ -1,0 +1,13 @@
+div p{
+    color: brown;
+}
+#adjasent-selectors ~ h2{
+    color: burlywood;
+}
+#adjasent-selectors > h2{
+    color:red;
+}
+
+.adjasent h2{
+    color: blanchedalmond;
+}
